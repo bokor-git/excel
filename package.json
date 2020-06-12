@@ -1,0 +1,27 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bokor-git/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel",
+    "native",
+    "javascript"
+  ],
+  "author": "Bohdan Korol <bogdankorolbk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bokor-git/excel/issues"
+  },
+  "homepage": "https://github.com/bokor-git/excel#readme",
+  "private": true
+}
